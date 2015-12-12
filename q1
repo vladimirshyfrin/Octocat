@@ -1,1 +1,1 @@
-Explain what git clone does in your own words
+The git clone command makes a copy of an existing git repository, that is completely seperate from the original one
